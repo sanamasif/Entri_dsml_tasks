@@ -18,13 +18,23 @@ Task 5-numpy and pandas shows various functionalities provided by Pandas and Num
 
 Task 6-matplotlib shows a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
 
-iris_EDA:- It is a exploratory data analysis of iris data set
+Iris EDA:- It is a exploratory data analysis of iris data set.
 
-Employee_EDA:- It is a exploratory data analysis of employees data set
+Employee EDA:- It is a exploratory data analysis of employees data set.
 
-ML-regression_task1.ipynb:-This project aims to predict insurance claim charges using machine learning regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
+ML Regression Task 1-This file aims to predict insurance claim charges using ml regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
 
-9-ML_classification_task2.ipynb:-This repository contains code and data for a machine learning classification task aimed at predicting outcome/target based on features.
+ML classification Task 2-This file contains code and data for a ml classification task aimed at predicting outcome/target based on features.
+
+ML simple linear regression-This file contains code for predicting salaries using linear regression, where the model estimates target based on variables such as years of experience, education level, and location.
+
+ML Random forest claassifier-This file contains code for implementing Random Forest models for both classification and regression tasks.
+
+ML Decision Tree classification-This file contains code for a Decision Tree classification task, where the algorithm predicts target based on features.
+
+ML Logistic Regression-This file contains Python code for implementing logistic regression from scratch.
+
+13-DL FASHION MNIST classification(CNN)Task 1-This file contains code for classifying fashion items from the Fashion MNIST dataset using Convolutional Neural Networks. The file focuses on training a deep learning model to accurately classify clothing articles such as shirts, dresses, sneakers, and more. It includes implementation of CNN architectures, model training procedures, evaluation metrics, and visualization of results to achieve high classification accuracy.
 
 10-Convolution_neural_network.ipynb:-This includes code for training a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset, focusing on achieving high accuracy through deep learning techniques and model optimization.
 
@@ -32,22 +42,18 @@ ML-regression_task1.ipynb:-This project aims to predict insurance claim charges 
 
 12-KNN_Classification.ipynb:-This contains code for a K-Nearest Neighbors (KNN) classification task, where the algorithm predicts target based on features.
 
-13-MNIST_CNN_task.ipynb:-This contains code for classifying fashion items from the Fashion MNIST dataset using Convolutional Neural Networks (CNN). The project focuses on training a deep learning model to accurately classify clothing articles such as shirts, dresses, sneakers, and more. It includes implementation of CNN architectures, model training procedures, evaluation metrics, and visualization of results to achieve high classification accuracy.
 
 14-SVM_Classification.ipynb:-This contains code for a Support Vector Machine (SVM) classification task, where the algorithm predicts target based on features.
 
-15-decision_tree.ipynb:-This contains code for a Decision Tree classification task, where the algorithm predicts target based on features.
+
 
 16-deeo_learning_MLP.ipynb:-This contains comprehensive notes and explanations on Multi-Layer Perceptron (MLP) in deep learning.
 
 17-deep_learning_perceptron.ipynb:-This file contains Python code to create a perceptron model from scratch.
 
-18-linear_regression_salary_prediction.ipynb:-This contains code for predicting salaries using linear regression, where the model estimates target based on variables such as years of experience, education level, and location.
 
-19-logistic_regression_scratch.ipynb:-This contains Python code for implementing logistic regression from scratch.
 
 20-logr_confusion_metrics.ipynb:-model deployment,predict and evaluation using confusion matrix.
 
 21-natural_language_toolkit_nltk.ipynb:-This explores Natural Language Processing (NLP) techniques using the Natural Language Toolkit (NLTK).
 
-22-random_forest.ipynb:-This contains code for implementing Random Forest models for both classification and regression tasks.
