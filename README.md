@@ -18,7 +18,7 @@ Task 5-numpy and pandas shows various functionalities provided by Pandas and Num
 
 Task 6-matplotlib shows a set of basic Matplotlib problems aimed at reinforcing your understanding of data visualization using Matplotlib library in Python.
 
-Iris EDA:- It is a exploratory data analysis of iris data set.
+Iris EDA- It is a exploratory data analysis of iris data set.
 
 Employee EDA:- It is a exploratory data analysis of employees data set.
 
