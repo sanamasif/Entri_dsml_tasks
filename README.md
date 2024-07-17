@@ -24,7 +24,7 @@ Employee EDA:- It is a exploratory data analysis of employees data set.
 
 ML Regression Task 1-This file aims to predict insurance claim charges using ml regression techniques, involving data exploration, preprocessing, model building, and evaluation to develop an accurate predictive model based on features such as age, gender, BMI, number of children, smoking status, and region.
 
-ML classification Task 2-This file contains code and data for a ml classification task aimed at predicting outcome/target based on features.
+ML Drug classification Task 2-This file contains code and data setof patients all of whom suffered from the same illnes.during their course of treatement each patient responded to one of 5 medication DRUG A,B,C,X,Y.its aimed to predicting outcome/target based on features.
 
 ML simple linear regression-This file contains code for predicting salaries using linear regression, where the model estimates target based on variables such as years of experience, education level, and location.
 
@@ -34,26 +34,27 @@ ML Decision Tree classification-This file contains code for a Decision Tree clas
 
 ML Logistic Regression-This file contains Python code for implementing logistic regression from scratch.
 
-13-DL FASHION MNIST classification(CNN)Task 1-This file contains code for classifying fashion items from the Fashion MNIST dataset using Convolutional Neural Networks. The file focuses on training a deep learning model to accurately classify clothing articles such as shirts, dresses, sneakers, and more. It includes implementation of CNN architectures, model training procedures, evaluation metrics, and visualization of results to achieve high classification accuracy.
+ML SVM Classification-This file  contains code for a Support Vector Machine classification task, where the algorithm predicts target based on features.
 
-10-Convolution_neural_network.ipynb:-This includes code for training a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset, focusing on achieving high accuracy through deep learning techniques and model optimization.
+DL FASHION MNIST classification(CNN)Task 1-This file contains code for classifying fashion items from the Fashion MNIST dataset using Convolutional Neural Networks. The file focuses on training a deep learning model to accurately classify clothing articles such as shirts, dresses, sneakers, and more. It includes implementation of CNN architectures, model training procedures, evaluation metrics, and visualization of results to achieve high classification accuracy.
 
-11-Dimensionality_reduction(pca,t_sne.ipynb):-This repository explores dimensionality reduction techniques, specifically t-SNE (t-Distributed Stochastic Neighbor Embedding) and PCA (Principal Component Analysis).
+DL Multi layer percepton(MLP)-This contains file comprehensive notes and explanations on Multi-Layer Perceptron (MLP) in deep learning.
 
-12-KNN_Classification.ipynb:-This contains code for a K-Nearest Neighbors (KNN) classification task, where the algorithm predicts target based on features.
+Convolution neural network(CNN)-This file includes code for training a Convolutional Neural Network to classify images from the CIFAR-10 dataset, focusing on achieving high accuracy through deep learning techniques and model optimization.
+
+Dimensionality reduction-This file explores dimensionality reduction techniques, specifically t-SNE (t-Distributed Stochastic Neighbor Embedding) and PCA (Principal Component Analysis).
+
+K-Nearest Neighbors (KNN) Classification-This file contains code for a K-Nearest Neighbors classification task, where the algorithm predicts target based on features.
 
 
-14-SVM_Classification.ipynb:-This contains code for a Support Vector Machine (SVM) classification task, where the algorithm predicts target based on features.
 
 
 
-16-deeo_learning_MLP.ipynb:-This contains comprehensive notes and explanations on Multi-Layer Perceptron (MLP) in deep learning.
 
 17-deep_learning_perceptron.ipynb:-This file contains Python code to create a perceptron model from scratch.
 
 
 
-20-logr_confusion_metrics.ipynb:-model deployment,predict and evaluation using confusion matrix.
 
-21-natural_language_toolkit_nltk.ipynb:-This explores Natural Language Processing (NLP) techniques using the Natural Language Toolkit (NLTK).
+
 
