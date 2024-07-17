@@ -38,7 +38,11 @@ ML SVM Classification-This file  contains code for a Support Vector Machine clas
 
 DL FASHION MNIST classification(CNN)Task 1-This file contains code for classifying fashion items from the Fashion MNIST dataset using Convolutional Neural Networks. The file focuses on training a deep learning model to accurately classify clothing articles such as shirts, dresses, sneakers, and more. It includes implementation of CNN architectures, model training procedures, evaluation metrics, and visualization of results to achieve high classification accuracy.
 
-DL Multi layer percepton(MLP)-This contains file comprehensive notes and explanations on Multi-Layer Perceptron (MLP) in deep learning.
+DL Multi layer percepton(MLP)-This file contains comprehensive notes and explanations on Multi-Layer Perceptron (MLP) in deep learning.
+
+DL Neural network(DNN)-this file contains python code to create a perceptron model on neural network in dl.
+
+DL perceptron-This file contains Python code to create a perceptron model from scratch.
 
 Convolution neural network(CNN)-This file includes code for training a Convolutional Neural Network to classify images from the CIFAR-10 dataset, focusing on achieving high accuracy through deep learning techniques and model optimization.
 
@@ -51,7 +55,6 @@ K-Nearest Neighbors (KNN) Classification-This file contains code for a K-Nearest
 
 
 
-17-deep_learning_perceptron.ipynb:-This file contains Python code to create a perceptron model from scratch.
 
 
 
